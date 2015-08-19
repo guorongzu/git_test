@@ -5,3 +5,4 @@ Git tracks changes of files.
 add a new line.
 add a new line2.
 add a new line4.
+add a new line3.
